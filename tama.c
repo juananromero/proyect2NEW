@@ -1,3 +1,4 @@
+/* 26 febrero 2018*/
 #include <stdio.h>
 
 main()
